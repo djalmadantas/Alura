@@ -1,2 +1,6 @@
 /.idea/
-/MicroServicos/target/
+/eureka-server/target/
+/pedidos/target/
+/pagamentos/target/
+/pedidos/data/
+/pagamentos/data/
