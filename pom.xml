@@ -22,6 +22,7 @@
         <module>pagamentos</module>
         <module>eureka-server</module>
         <module>pedidos</module>
+        <module>gateway</module>
     </modules>
 
     <properties>
