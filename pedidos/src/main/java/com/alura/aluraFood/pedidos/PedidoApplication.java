@@ -1,4 +1,4 @@
-package com.alura.aluraFood;
+package com.alura.aluraFood.pedidos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
